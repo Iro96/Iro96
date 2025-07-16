@@ -21,7 +21,7 @@ New York, The USA, 10003
 
 ## Skills
 
-- Natural Language: Japanese (Native); English (IELTS 6.5); German (DSD II)
+- Natural Language: English (IELTS 6.5); German (DSD II)
 - Programming Language: **Python**; C++; Java; JavaScript; PHP; Go; Verilog HDL; MATLAB
 - Typesetting Language: **LaTeX**; Markdown
 - Programming Framework: **PyTorch**; TensorFlow
