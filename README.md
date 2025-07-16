@@ -1,10 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 
-# Iro Sowara
-
-[![GitHub license](https://img.shields.io/github/license/Iro96/Iro96?style=for-the-badge)](https://github.com/Iro96/Iro96/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Iro96/Iro96?style=for-the-badge)](https://github.com/Iro96/Iro96/issues)
+# Iro Sowara ![](https://img.shields.io/github/license/Iro96/Iro96)
 
 ### *B.S Student*
 
