@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
 
 # Iro Sowara ![](https://img.shields.io/github/license/Iro96/Iro96)
 
