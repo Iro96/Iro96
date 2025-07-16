@@ -28,6 +28,6 @@ New York, The USA, 10003
 
 ## Academic Service
 
-Conference Junior Reviewer: CVPR, ECCV, AAAI (Student Volunteer)
-Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) - ad-hoc reviewer
-Program Committee Member: NYU Undergraduate Research Symposium on AI (2025)
+- Conference Junior Reviewer: CVPR, ECCV, AAAI (Student Volunteer) 
+- Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) - ad-hoc reviewer
+- Program Committee Member: NYU Undergraduate Research Symposium on AI (2025)
