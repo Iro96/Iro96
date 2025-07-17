@@ -1,8 +1,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
-# Iro Sowara ![](https://img.shields.io/github/license/Iro96/Iro96)
+# Iro Sowara
 
-### *H.S Student*
+### *JH.S Student*
 
 38A Ben Thuyen Street, Area 1, Hamlet 1, Gia Canh
 
@@ -10,7 +11,7 @@ Dong Nai, Viet Nam, 810000
 
 ## Education
 
-- 2023.09-*Present* Le Thanh Tong High School - Grade 9 Student
+- 2023.09-*Present* Le Thanh Tong Junior High School - Grade 9 Student
 - 2020.04-*Present* Harvard OCW Self-Learner
 
 ## Research Interests
@@ -18,6 +19,7 @@ Dong Nai, Viet Nam, 810000
 - Natural Language Processing
 - Large Language Models
 - Deep Learning, and Reinforcement Learning
+- Cyper Security
 
 ## Skills
 
@@ -83,5 +85,11 @@ Dong Nai, Viet Nam, 810000
 [GitHub](#) | [Demo](#)
 
 - Implemented using OpenAI Gym, PyTorch and TensorFlow
-- Trained by use diffrent types such as: NEAT algorithms, Feed forward Network
+- Trained by use diffrent types such as NEAT algorithms, Feed forward Network with my private Data
 - Visualized agent progress with animated performance graphs
+
+  ## Academic Service
+
+  - Computer Science and Tech Blogger
+  - NYU Tandon CS4CS (Computer Science for Cyber Security)
+  - AI Scholars Program Application by Stanford, MIT and Ivy League
