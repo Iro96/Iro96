@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
-# Iro Sowara
+# Iro Sowara (N. Đ. Huy Quân)
 
 ### *JH.S Student*
 
@@ -93,3 +93,8 @@ Dong Nai, Viet Nam, 810000
 - Cyber Security (FCF - NSE2) from Fortinet
 - AI Scholars Program Application by Stanford, MIT and Ivy League
 - Havard OCW CS50's Python
+
+<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/icon-nse-fund-cybersecurity.png" height=70px alt="FCF Badge" />
+<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_cs50.png" height=150px alt="HavradX CS50" />
+<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_ph125.8x.png" height=150px alt="HavardX Machine Learning" />
+
