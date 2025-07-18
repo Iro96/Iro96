@@ -89,6 +89,7 @@ Dong Nai, Viet Nam, 810000
 - Visualized agent progress with animated performance graphs
 
 ## Academic Service and Certificated
-- Computer Science and Tech Blogger
 - NYU Tandon CS4CS (Computer Science for Cyber Security)
+- Cyber Security (FCF - NSE2) from Fortinet
 - AI Scholars Program Application by Stanford, MIT and Ivy League
+- Havard OCW CS50's Python
