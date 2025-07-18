@@ -88,8 +88,7 @@ Dong Nai, Viet Nam, 810000
 - Trained by use diffrent types such as NEAT algorithms, Feed forward Network with my private Data
 - Visualized agent progress with animated performance graphs
 
-  ## Academic Service
-
-  - Computer Science and Tech Blogger
-  - NYU Tandon CS4CS (Computer Science for Cyber Security)
-  - AI Scholars Program Application by Stanford, MIT and Ivy League
+## Academic Service and Certificated
+- Computer Science and Tech Blogger
+- NYU Tandon CS4CS (Computer Science for Cyber Security)
+- AI Scholars Program Application by Stanford, MIT and Ivy League
