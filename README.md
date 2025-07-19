@@ -23,10 +23,10 @@ Dong Nai, Viet Nam, 810000
 
 ## Skills
 
-- Natural Language: Vietnamese (native); English (B1 for Devs); German (*learning)
-- Programming Language: **Python**; C++; Java; JavaScript
+- Natural Language: Vietnamese (native); English (B1 for Devs); German (A1.1)
+- Programming Language: **Python**; C++; Java; JavaScript; HTML; CSS
 - Typesetting Language: **LaTeX**; Markdown
-- Programming Framework: **PyTorch**; TensorFlow
+- Programming Framework: **PyTorch**; TensorFlow; **Metasploit-Framework**
 
 ## Projects
 
@@ -94,7 +94,9 @@ Dong Nai, Viet Nam, 810000
 - AI Scholars Program Application by Stanford, MIT and Ivy League
 - Havard OCW CS50's Python
 
-<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/icon-nse-fund-cybersecurity.png" height=70px alt="FCF Badge" />
+<br />
+
+<img align="left" src="https://github.com/Iro96/Iro96/blob/main/images/icon-nse-fund-cybersecurity.png" height=70px alt="FCF Badge" />
 <img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_cs50.png" height=150px alt="HavradX CS50" />
 <img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_ph125.8x.png" height=150px alt="HavardX Machine Learning" />
 
