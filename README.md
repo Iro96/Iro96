@@ -1,10 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=虚心向学，君子不器🎈&author=可以遐想">
-</div>
-
 # Iro Sowara (N. Đ. Huy Quân)
 
 ### *JH.S Student*
@@ -45,6 +41,12 @@ Dong Nai, Viet Nam, 810000
 - Cyber Security (FCF - NSE2) from Fortinet
 - AI Scholars Program Application by Stanford, MIT and Ivy League
 - Havard OCW CS50's Python
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=虚心向学，君子不器🎈&author=可以遐想">
+</div>
 
 <br />
 
