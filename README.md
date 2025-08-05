@@ -44,14 +44,6 @@ Dong Nai, Viet Nam, 810000
 
 ---
 
-## Academic Service and Certificated
-- NYU Tandon CS4CS (Computer Science for Cyber Security)
-- Cyber Security (FCF - NSE2) from Fortinet
-- AI Scholars Program Application by Stanford, MIT and Ivy League
-- Havard OCW CS50's Python
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iro96&theme=blueberry&count_private=true&hide_border=true&line_height=20" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
@@ -79,7 +71,15 @@ Dong Nai, Viet Nam, 810000
   </a>
 </p>
 
-<br />
+<h1 align="center">Academics and Certificates<h2/>
+
+> NYU Tandon CS4CS (Computer Science for Cyber Security)
+> 
+> Cyber Security (FCF - NSE2) from Fortinet
+> 
+> AI Scholars Program Application by Stanford, MIT and Ivy League
+> 
+> Havard OCW CS50's Python
 
 <img align="left" src="https://github.com/Iro96/Iro96/blob/main/images/icon-nse-fund-cybersecurity.png" height=70px alt="FCF Badge" />
 <img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_cs50.png" height=150px alt="HavradX CS50" />
