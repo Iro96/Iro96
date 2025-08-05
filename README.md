@@ -29,7 +29,7 @@ Dong Nai, Viet Nam, 810000
 - Programming Framework: **PyTorch**; TensorFlow; **Metasploit-Framework**
   
 ---
-
+<h2 align="center">⇩ My Stack ⇩<h2/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,ts,nodejs,express,tailwind,bootstrap,mysql,sqlite,linux,bash,docker,git,github,vscode,kali,ubuntu,nginx,gcp&perline=12">
 </p>
