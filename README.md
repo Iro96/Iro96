@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://www.google.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Code,+Learn+and+Pratice.;&center=true&size=27">
+  </a>
+</div>
+
+---
+
 <img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
