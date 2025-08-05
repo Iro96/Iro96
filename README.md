@@ -52,14 +52,32 @@ Dong Nai, Viet Nam, 810000
 
 ---
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Iro96&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iro96&theme=blueberry&count_private=true&hide_border=true&line_height=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=Iro96&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iro96&theme=radical" />
+</p>
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=虚心向学，君子不器🎈&author=可以遐想">
 </div>
+
+<p align="center">
+  <a href="https://github.com/Iro96">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/IroSowara">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-black.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://Iro96.github.io">
+    <img src="https://img.shields.io/badge/Blog-Iro96.github.io-%23FF8800.svg?style=for-the-badge"/>
+  </a>
+</p>
 
 <br />
 
