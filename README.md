@@ -52,6 +52,11 @@ Dong Nai, Viet Nam, 810000
 
 ---
 
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Iro96&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+---
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=虚心向学，君子不器🎈&author=可以遐想">
 </div>
