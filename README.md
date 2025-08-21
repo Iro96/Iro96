@@ -39,7 +39,7 @@ Dong Nai, Viet Nam, 810000
 ---
 <h2 align="center">⇩ My Stack ⇩<h2/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,tensorflow,sklearn,cpp,java,js,html,css,nodejs,tailwind,bootstrap,fastapi,linux,bash,docker,latex,git,github,vscode,kali,ubuntu,gcp&perline=12">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,tensorflow,sklearn,cpp,java,js,html,css,fastapi,linux,bash,docker,latex,git,github,vscode,kali,ubuntu,gcp&perline=12">
 </p>
 
 ---
