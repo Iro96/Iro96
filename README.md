@@ -67,17 +67,10 @@
   </a>
 </p>
 
-<h1 align="center">Academics and Certificates<h2/>
+<h2 align="center">Academics and Certificates<h2/>
 
-> NYU Tandon CS4CS (Computer Science for Cyber Security)
-> 
-> Cyber Security (FCF - NSE2) from Fortinet
-> 
-> AI Scholars Program Application by Stanford, MIT and Ivy League
-> 
-> Havard OCW CS50's Python
 
-<img align="left" src="https://github.com/Iro96/Iro96/blob/main/images/icon-nse-fund-cybersecurity.png" height=70px alt="FCF Badge" />
-<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_cs50.png" height=150px alt="HavradX CS50" />
-<img align="right" src="https://github.com/Iro96/Iro96/blob/main/images/havardx_ph125.8x.png" height=150px alt="HavardX Machine Learning" />
-
+- NYU Tandon CS4CS (Computer Science for Cyber Security)
+- Cyber Security (FCF - NSE2) from Fortinet
+- AI Scholars Program Application by Stanford, MIT and Ivy League
+- Havard OCW CS50, PH125.8X
