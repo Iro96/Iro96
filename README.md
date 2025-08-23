@@ -11,16 +11,12 @@
 
 # Iro Sowara (N. Đ. Huy Quân)
 
-### *JH.S Student*
-
-38A Ben Thuyen Street, Area 1, Hamlet 1, Gia Canh
-
-Dong Nai, Viet Nam, 810000
+### *B.S Student*
 
 ## Education
 
-- 2023.09-*Present* Le Thanh Tong Junior High School - Grade 9 Student
-- 2020.04-*Present* Harvard OCW Self-Learner
+- 2017.09-2020.04 High School - *...*
+- 2020.04-*Present* Harvard Student
 
 ## Research Interests
 
@@ -39,7 +35,7 @@ Dong Nai, Viet Nam, 810000
 ---
 <h2 align="center">⇩ My Stack ⇩<h2/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,azure,tensorflow,sklearn,cpp,java,js,html,css,fastapi,linux,bash,docker,latex,git,github,vscode,kali,ubuntu,gcp&perline=12">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,pytorch,azure,tensorflow,sklearn,fastapi,,docker,latex,git,github,vscode,linux,bash,kali,ubuntu&perline=11">
 </p>
 
 ---
