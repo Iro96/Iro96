@@ -39,15 +39,17 @@
 </p>
 
 ---
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Iro96&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iro96&layout=compact&show_icons=true&theme=react" alt="Iro96 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=react" alt="Iro96 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Iro96&theme=merko" alt="Iro96 github readme activity graph" width="60%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iro96&theme=blueberry&count_private=true&hide_border=true&line_height=20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=blueberry&count_private=true&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=Iro96&cc=1a1b27&tc=38bdae&ic=bf91f3&bc=ffff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Iro96&theme=radical" />
-</p>
+<br />
 
 ---
 
