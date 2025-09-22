@@ -11,12 +11,12 @@
 
 # Iro Sowara (N. Đ. Huy Quân)
 
-### *B.S Student*
+### *JH.S Student*
 
 ## Education
 
-- 2017.09-2020.04 High School - *...*
-- 2020.04-*Present* Harvard Student
+- 2022.09-*Present* -- ***High School - ...***
+- 2020.04-*Present* -- ***Harvard MOOC and Self-studying Student***
 
 ## Research Interests
 
