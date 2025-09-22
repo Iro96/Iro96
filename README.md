@@ -7,7 +7,6 @@
 ---
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Iro96" alt="Iro96" />
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iro96&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 
 # Iro Sowara (N. Đ. Huy Quân)
 
