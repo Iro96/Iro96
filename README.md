@@ -30,6 +30,13 @@
 - Programming Language: **Python**; C++; Java; JavaScript; HTML; CSS
 - Typesetting Language: **LaTeX**; Markdown
 - Programming Framework: **PyTorch**; TensorFlow; **Metasploit-Framework**
+
+## Acedemics & Certificates
+
+- NYU Tandon CS4CS (Computer Science for Cyber Security)
+- Cyber Security (FCF - NSE2) from Fortinet
+- AI Scholars Program Application by Stanford, MIT and Ivy League
+- Havard OCW CS50, PH125.8X
   
 ---
 <h2 align="center">⇩ My Stack ⇩<h2/>
@@ -67,11 +74,3 @@
     <img src="https://img.shields.io/badge/Blog-Iro96.github.io-%23FF8800.svg?style=for-the-badge"/>
   </a>
 </p>
-
-<h2 align="center">Academics and Certificates<h2/>
-
-
-- NYU Tandon CS4CS (Computer Science for Cyber Security)
-- Cyber Security (FCF - NSE2) from Fortinet
-- AI Scholars Program Application by Stanford, MIT and Ivy League
-- Havard OCW CS50, PH125.8X
