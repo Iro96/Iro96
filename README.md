@@ -47,11 +47,11 @@
 ---
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Iro96&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Iro96&layout=compact&show_icons=true&theme=react" alt="Iro96 github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Iro96&show_icons=true&theme=react" alt="Iro96 github-readme-stats" width="48%" />
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iro96&layout=compact&theme=react" alt="Iro96 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact&theme=react" alt="Iro96 github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Iro96&theme=merko" alt="Iro96 github readme activity graph" width="60%" />
 </div>
 
